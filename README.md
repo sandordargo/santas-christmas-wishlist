@@ -1,4 +1,4 @@
-Santa's Christmas Wish List
+Santa's Christmas Wishlist
 ===========================
 
 Christmas is coming and every child deserves a gift, but Santa's resources are limited. We have make sure that children can choose their gifts both via mail or in person in Santa's Grotto and that they express their wish only once.
